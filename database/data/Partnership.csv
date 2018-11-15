@@ -1,0 +1,404 @@
+﻿AccountId,Name,New_partnershiptypeId,New_name
+ddb3cb48-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio Salernitana,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+f7b3cb48-53b6-dd11-b898-00188b804fcd,Realdania,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+f1c8bd54-53b6-dd11-b898-00188b804fcd,Aydin Dogan Vakfi,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+6824e278-948d-de11-95cc-00188b804fcd,Siemens Stiftung,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+d4dbd43c-53b6-dd11-b898-00188b804fcd,Fundación Barrié,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+84dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione CRT,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+2d28e530-53b6-dd11-b898-00188b804fcd,Finnish Cultural Foundation,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+04d1db36-53b6-dd11-b898-00188b804fcd,Fondazione di Venezia,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+1028e530-53b6-dd11-b898-00188b804fcd,"""la Caixa"" Banking Foundation",09034bde-adea-e011-b61f-001ec9e8f280,corporates
+0328e530-53b6-dd11-b898-00188b804fcd,Riksbankens Jubileumsfond,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+aedbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cariplo,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+c7bdc44e-53b6-dd11-b898-00188b804fcd,Bill & Melinda Gates Foundation,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+1228e530-53b6-dd11-b898-00188b804fcd,Wellcome Trust,09034bde-adea-e011-b61f-001ec9e8f280,corporates
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,ffd0e33e-4bae-e211-a8a5-00155d001608,European authorities (select also public authorities)
+3728e530-53b6-dd11-b898-00188b804fcd,Körber-Stiftung,ffd0e33e-4bae-e211-a8a5-00155d001608,European authorities (select also public authorities)
+c7bdc44e-53b6-dd11-b898-00188b804fcd,Bill & Melinda Gates Foundation,ffd0e33e-4bae-e211-a8a5-00155d001608,European authorities (select also public authorities)
+b2b3cb48-53b6-dd11-b898-00188b804fcd,National Foundation for Civil Society Development - Croatia,ffd0e33e-4bae-e211-a8a5-00155d001608,European authorities (select also public authorities)
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,ffd0e33e-4bae-e211-a8a5-00155d001608,European authorities (select also public authorities)
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,ffd0e33e-4bae-e211-a8a5-00155d001608,European authorities (select also public authorities)
+aedbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cariplo,ffd0e33e-4bae-e211-a8a5-00155d001608,European authorities (select also public authorities)
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,ffd0e33e-4bae-e211-a8a5-00155d001608,European authorities (select also public authorities)
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,ffd0e33e-4bae-e211-a8a5-00155d001608,European authorities (select also public authorities)
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,ffd0e33e-4bae-e211-a8a5-00155d001608,European authorities (select also public authorities)
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,ffd0e33e-4bae-e211-a8a5-00155d001608,European authorities (select also public authorities)
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,ffd0e33e-4bae-e211-a8a5-00155d001608,European authorities (select also public authorities)
+6828e530-53b6-dd11-b898-00188b804fcd,King Baudouin Foundation,ffd0e33e-4bae-e211-a8a5-00155d001608,European authorities (select also public authorities)
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,ffd0e33e-4bae-e211-a8a5-00155d001608,European authorities (select also public authorities)
+8ab3cb48-53b6-dd11-b898-00188b804fcd,Aga Khan Foundation UK,ffd0e33e-4bae-e211-a8a5-00155d001608,European authorities (select also public authorities)
+1228e530-53b6-dd11-b898-00188b804fcd,Wellcome Trust,ffd0e33e-4bae-e211-a8a5-00155d001608,European authorities (select also public authorities)
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,f88975b0-70c3-e511-905d-00155d33171d,Media
+90dbd43c-53b6-dd11-b898-00188b804fcd,Fondation Charles Léopold Mayer pour le progrès de l'Homme,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+92dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Padova e Rovigo,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+1ddbd43c-53b6-dd11-b898-00188b804fcd,Carnegie UK Trust,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+c5d0db36-53b6-dd11-b898-00188b804fcd,Gerda Henkel Stiftung,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+2528e530-53b6-dd11-b898-00188b804fcd,Barrow Cadbury Trust,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+f7b3cb48-53b6-dd11-b898-00188b804fcd,Realdania,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+47bec44e-53b6-dd11-b898-00188b804fcd,Fondation Mérieux,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+3668ba7d-4c2f-de11-8d16-00188b804fcd,Enel Cuore Onlus,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+527541f8-b036-e111-8306-00155d001800,Fondation BNP Paribas,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+b0d0db36-53b6-dd11-b898-00188b804fcd,Compagnia di San Paolo,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+b0d0db36-53b6-dd11-b898-00188b804fcd,Compagnia di San Paolo,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+8cdbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio della Spezia,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+aedbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cariplo,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+6828e530-53b6-dd11-b898-00188b804fcd,King Baudouin Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+3668ba7d-4c2f-de11-8d16-00188b804fcd,Enel Cuore Onlus,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+3668ba7d-4c2f-de11-8d16-00188b804fcd,Enel Cuore Onlus,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+3668ba7d-4c2f-de11-8d16-00188b804fcd,Enel Cuore Onlus,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+3668ba7d-4c2f-de11-8d16-00188b804fcd,Enel Cuore Onlus,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+2928e530-53b6-dd11-b898-00188b804fcd,Charles Stewart Mott Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+86dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Biella,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+86dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Biella,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+96dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Parma,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+86dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Biella,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+c69aa4ac-3280-df11-8416-00188b804fcd,Essl Foundation MGE gemeinnützige Privatstiftung,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+6c28e530-53b6-dd11-b898-00188b804fcd,BMW Stiftung Herbert Quandt,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+9f47d042-53b6-dd11-b898-00188b804fcd,Fritt Ord Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+de902966-3e3a-de11-96fa-00188b804fcd,Fondazione CON IL SUD,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+5228e530-53b6-dd11-b898-00188b804fcd,Sabanci Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+5228e530-53b6-dd11-b898-00188b804fcd,Sabanci Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+5228e530-53b6-dd11-b898-00188b804fcd,Sabanci Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+a6b3cb48-53b6-dd11-b898-00188b804fcd,Stavros Niarchos Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+c7bdc44e-53b6-dd11-b898-00188b804fcd,Bill & Melinda Gates Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+c7bdc44e-53b6-dd11-b898-00188b804fcd,Bill & Melinda Gates Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+b2b3cb48-53b6-dd11-b898-00188b804fcd,National Foundation for Civil Society Development - Croatia,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+b2b3cb48-53b6-dd11-b898-00188b804fcd,National Foundation for Civil Society Development - Croatia,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+aedbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cariplo,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+4528e530-53b6-dd11-b898-00188b804fcd,Rockefeller Brothers Fund,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+aedbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cariplo,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+e4d0db36-53b6-dd11-b898-00188b804fcd,"VELUX Foundations, The",7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+04d1db36-53b6-dd11-b898-00188b804fcd,Fondazione di Venezia,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+c947d042-53b6-dd11-b898-00188b804fcd,Mozaik Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+c947d042-53b6-dd11-b898-00188b804fcd,Mozaik Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+aedbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cariplo,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+230db066-53b6-dd11-b898-00188b804fcd,Adessium Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+230db066-53b6-dd11-b898-00188b804fcd,Adessium Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+9f47d042-53b6-dd11-b898-00188b804fcd,Fritt Ord Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+825d2e30-0629-e411-8caf-00155d331923,Fonds Schiedam Vlaardingen e.o.,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+90dbd43c-53b6-dd11-b898-00188b804fcd,Fondation Charles Léopold Mayer pour le progrès de l'Homme,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+4628e530-53b6-dd11-b898-00188b804fcd,"Rockefeller Foundation, The",7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+89dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Cuneo,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+c7bdc44e-53b6-dd11-b898-00188b804fcd,Bill & Melinda Gates Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+8cdbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio della Spezia,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+1228e530-53b6-dd11-b898-00188b804fcd,Wellcome Trust,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+2b28e530-53b6-dd11-b898-00188b804fcd,Stefan Batory Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+2528e530-53b6-dd11-b898-00188b804fcd,Barrow Cadbury Trust,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+18b4cb48-53b6-dd11-b898-00188b804fcd,Mama Cash Foundation,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+4528e530-53b6-dd11-b898-00188b804fcd,Rockefeller Brothers Fund,7ebb17d5-adea-e011-b61f-001ec9e8f280,non-profit organisations
+6828e530-53b6-dd11-b898-00188b804fcd,King Baudouin Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+51dbd43c-53b6-dd11-b898-00188b804fcd,Evens Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+96dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Parma,916900e6-adea-e011-b61f-001ec9e8f280,other
+89dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Cuneo,916900e6-adea-e011-b61f-001ec9e8f280,other
+0a28e530-53b6-dd11-b898-00188b804fcd,Ford Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+47bec44e-53b6-dd11-b898-00188b804fcd,Fondation Mérieux,916900e6-adea-e011-b61f-001ec9e8f280,other
+3668ba7d-4c2f-de11-8d16-00188b804fcd,Enel Cuore Onlus,916900e6-adea-e011-b61f-001ec9e8f280,other
+6828e530-53b6-dd11-b898-00188b804fcd,King Baudouin Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+527541f8-b036-e111-8306-00155d001800,Fondation BNP Paribas,916900e6-adea-e011-b61f-001ec9e8f280,other
+6824e278-948d-de11-95cc-00188b804fcd,Siemens Stiftung,916900e6-adea-e011-b61f-001ec9e8f280,other
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+aedbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cariplo,916900e6-adea-e011-b61f-001ec9e8f280,other
+6824e278-948d-de11-95cc-00188b804fcd,Siemens Stiftung,916900e6-adea-e011-b61f-001ec9e8f280,other
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,916900e6-adea-e011-b61f-001ec9e8f280,other
+6328e530-53b6-dd11-b898-00188b804fcd,"Community Foundation for Northern Ireland, The",916900e6-adea-e011-b61f-001ec9e8f280,other
+86dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Biella,916900e6-adea-e011-b61f-001ec9e8f280,other
+96dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Parma,916900e6-adea-e011-b61f-001ec9e8f280,other
+86dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Biella,916900e6-adea-e011-b61f-001ec9e8f280,other
+51dbd43c-53b6-dd11-b898-00188b804fcd,Evens Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+0a28e530-53b6-dd11-b898-00188b804fcd,Ford Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+de902966-3e3a-de11-96fa-00188b804fcd,Fondazione CON IL SUD,916900e6-adea-e011-b61f-001ec9e8f280,other
+825d2e30-0629-e411-8caf-00155d331923,Fonds Schiedam Vlaardingen e.o.,916900e6-adea-e011-b61f-001ec9e8f280,other
+84dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione CRT,916900e6-adea-e011-b61f-001ec9e8f280,other
+84dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione CRT,916900e6-adea-e011-b61f-001ec9e8f280,other
+5228e530-53b6-dd11-b898-00188b804fcd,Sabanci Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+3728e530-53b6-dd11-b898-00188b804fcd,Körber-Stiftung,916900e6-adea-e011-b61f-001ec9e8f280,other
+a6b3cb48-53b6-dd11-b898-00188b804fcd,Stavros Niarchos Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+a6b3cb48-53b6-dd11-b898-00188b804fcd,Stavros Niarchos Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+c7bdc44e-53b6-dd11-b898-00188b804fcd,Bill & Melinda Gates Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+c7bdc44e-53b6-dd11-b898-00188b804fcd,Bill & Melinda Gates Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+b2b3cb48-53b6-dd11-b898-00188b804fcd,National Foundation for Civil Society Development - Croatia,916900e6-adea-e011-b61f-001ec9e8f280,other
+b2b3cb48-53b6-dd11-b898-00188b804fcd,National Foundation for Civil Society Development - Croatia,916900e6-adea-e011-b61f-001ec9e8f280,other
+9f47d042-53b6-dd11-b898-00188b804fcd,Fritt Ord Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+5328e530-53b6-dd11-b898-00188b804fcd,Bertelsmann Stiftung,916900e6-adea-e011-b61f-001ec9e8f280,other
+5328e530-53b6-dd11-b898-00188b804fcd,Bertelsmann Stiftung,916900e6-adea-e011-b61f-001ec9e8f280,other
+2d28e530-53b6-dd11-b898-00188b804fcd,Finnish Cultural Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+e4d0db36-53b6-dd11-b898-00188b804fcd,"VELUX Foundations, The",916900e6-adea-e011-b61f-001ec9e8f280,other
+04d1db36-53b6-dd11-b898-00188b804fcd,Fondazione di Venezia,916900e6-adea-e011-b61f-001ec9e8f280,other
+04d1db36-53b6-dd11-b898-00188b804fcd,Fondazione di Venezia,916900e6-adea-e011-b61f-001ec9e8f280,other
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,916900e6-adea-e011-b61f-001ec9e8f280,other
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,916900e6-adea-e011-b61f-001ec9e8f280,other
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,916900e6-adea-e011-b61f-001ec9e8f280,other
+aedbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cariplo,916900e6-adea-e011-b61f-001ec9e8f280,other
+6828e530-53b6-dd11-b898-00188b804fcd,King Baudouin Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+6828e530-53b6-dd11-b898-00188b804fcd,King Baudouin Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+46e833d1-98a6-e211-bc1c-00155d001608,Open Society Foundations,916900e6-adea-e011-b61f-001ec9e8f280,other
+ff27e530-53b6-dd11-b898-00188b804fcd,Robert Bosch Stiftung GmbH,916900e6-adea-e011-b61f-001ec9e8f280,other
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,916900e6-adea-e011-b61f-001ec9e8f280,other
+80b3cb48-53b6-dd11-b898-00188b804fcd,Stiftung Mercator GmbH,916900e6-adea-e011-b61f-001ec9e8f280,other
+bdb58136-59b7-df11-8416-00188b804fcd,Nordea-fonden,916900e6-adea-e011-b61f-001ec9e8f280,other
+89dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Cuneo,916900e6-adea-e011-b61f-001ec9e8f280,other
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+8cdbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio della Spezia,916900e6-adea-e011-b61f-001ec9e8f280,other
+9a34d505-32c7-e411-b56b-00155d331923,Gjensidigestiftelsen,916900e6-adea-e011-b61f-001ec9e8f280,other
+51dbd43c-53b6-dd11-b898-00188b804fcd,Evens Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+4628e530-53b6-dd11-b898-00188b804fcd,"Rockefeller Foundation, The",916900e6-adea-e011-b61f-001ec9e8f280,other
+80b3cb48-53b6-dd11-b898-00188b804fcd,Stiftung Mercator GmbH,916900e6-adea-e011-b61f-001ec9e8f280,other
+18b4cb48-53b6-dd11-b898-00188b804fcd,Mama Cash Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+4528e530-53b6-dd11-b898-00188b804fcd,Rockefeller Brothers Fund,916900e6-adea-e011-b61f-001ec9e8f280,other
+5228e530-53b6-dd11-b898-00188b804fcd,Sabanci Foundation,916900e6-adea-e011-b61f-001ec9e8f280,other
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,916900e6-adea-e011-b61f-001ec9e8f280,other
+46e833d1-98a6-e211-bc1c-00155d001608,Open Society Foundations,916900e6-adea-e011-b61f-001ec9e8f280,other
+6828e530-53b6-dd11-b898-00188b804fcd,King Baudouin Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+ddb3cb48-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio Salernitana,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2528e530-53b6-dd11-b898-00188b804fcd,Barrow Cadbury Trust,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+6828e530-53b6-dd11-b898-00188b804fcd,King Baudouin Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+c5d0db36-53b6-dd11-b898-00188b804fcd,Gerda Henkel Stiftung,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+f7b3cb48-53b6-dd11-b898-00188b804fcd,Realdania,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+527541f8-b036-e111-8306-00155d001800,Fondation BNP Paribas,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2d28e530-53b6-dd11-b898-00188b804fcd,Finnish Cultural Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+b0d0db36-53b6-dd11-b898-00188b804fcd,Compagnia di San Paolo,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2528e530-53b6-dd11-b898-00188b804fcd,Barrow Cadbury Trust,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+6428e530-53b6-dd11-b898-00188b804fcd,Joseph Rowntree Charitable Trust,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+aedbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cariplo,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+6828e530-53b6-dd11-b898-00188b804fcd,King Baudouin Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+6828e530-53b6-dd11-b898-00188b804fcd,King Baudouin Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+9f47d042-53b6-dd11-b898-00188b804fcd,Fritt Ord Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+6824e278-948d-de11-95cc-00188b804fcd,Siemens Stiftung,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+6328e530-53b6-dd11-b898-00188b804fcd,"Community Foundation for Northern Ireland, The",b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+81bec44e-53b6-dd11-b898-00188b804fcd,Big Lottery Fund,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+b0d0db36-53b6-dd11-b898-00188b804fcd,Compagnia di San Paolo,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+ff27e530-53b6-dd11-b898-00188b804fcd,Robert Bosch Stiftung GmbH,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2528e530-53b6-dd11-b898-00188b804fcd,Barrow Cadbury Trust,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+0a28e530-53b6-dd11-b898-00188b804fcd,Ford Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+c69aa4ac-3280-df11-8416-00188b804fcd,Essl Foundation MGE gemeinnützige Privatstiftung,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2528e530-53b6-dd11-b898-00188b804fcd,Barrow Cadbury Trust,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+fd27e530-53b6-dd11-b898-00188b804fcd,VolkswagenStiftung,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+18b4cb48-53b6-dd11-b898-00188b804fcd,Mama Cash Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+18b4cb48-53b6-dd11-b898-00188b804fcd,Mama Cash Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+3728e530-53b6-dd11-b898-00188b804fcd,Körber-Stiftung,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+3728e530-53b6-dd11-b898-00188b804fcd,Körber-Stiftung,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+a6b3cb48-53b6-dd11-b898-00188b804fcd,Stavros Niarchos Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+c7bdc44e-53b6-dd11-b898-00188b804fcd,Bill & Melinda Gates Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+aedbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cariplo,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+5328e530-53b6-dd11-b898-00188b804fcd,Bertelsmann Stiftung,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+5328e530-53b6-dd11-b898-00188b804fcd,Bertelsmann Stiftung,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+4528e530-53b6-dd11-b898-00188b804fcd,Rockefeller Brothers Fund,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+aedbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cariplo,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+e4d0db36-53b6-dd11-b898-00188b804fcd,"VELUX Foundations, The",b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+04d1db36-53b6-dd11-b898-00188b804fcd,Fondazione di Venezia,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+04d1db36-53b6-dd11-b898-00188b804fcd,Fondazione di Venezia,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+c947d042-53b6-dd11-b898-00188b804fcd,Mozaik Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+c947d042-53b6-dd11-b898-00188b804fcd,Mozaik Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+1028e530-53b6-dd11-b898-00188b804fcd,"""la Caixa"" Banking Foundation",b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+1028e530-53b6-dd11-b898-00188b804fcd,"""la Caixa"" Banking Foundation",b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+1028e530-53b6-dd11-b898-00188b804fcd,"""la Caixa"" Banking Foundation",b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+0328e530-53b6-dd11-b898-00188b804fcd,Riksbankens Jubileumsfond,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+0328e530-53b6-dd11-b898-00188b804fcd,Riksbankens Jubileumsfond,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+aedbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cariplo,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2d28e530-53b6-dd11-b898-00188b804fcd,Finnish Cultural Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+4528e530-53b6-dd11-b898-00188b804fcd,Rockefeller Brothers Fund,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+6828e530-53b6-dd11-b898-00188b804fcd,King Baudouin Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+6828e530-53b6-dd11-b898-00188b804fcd,King Baudouin Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+46e833d1-98a6-e211-bc1c-00155d001608,Open Society Foundations,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2828e530-53b6-dd11-b898-00188b804fcd,"German Marshall Fund of the United States, The",b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+ff27e530-53b6-dd11-b898-00188b804fcd,Robert Bosch Stiftung GmbH,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+9f47d042-53b6-dd11-b898-00188b804fcd,Fritt Ord Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+9f47d042-53b6-dd11-b898-00188b804fcd,Fritt Ord Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+9f47d042-53b6-dd11-b898-00188b804fcd,Fritt Ord Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+ff27e530-53b6-dd11-b898-00188b804fcd,Robert Bosch Stiftung GmbH,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+ff27e530-53b6-dd11-b898-00188b804fcd,Robert Bosch Stiftung GmbH,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2528e530-53b6-dd11-b898-00188b804fcd,Barrow Cadbury Trust,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+80b3cb48-53b6-dd11-b898-00188b804fcd,Stiftung Mercator GmbH,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+4628e530-53b6-dd11-b898-00188b804fcd,"Rockefeller Foundation, The",b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+c7bdc44e-53b6-dd11-b898-00188b804fcd,Bill & Melinda Gates Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+f927e530-53b6-dd11-b898-00188b804fcd,Bernard van Leer Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+8ab3cb48-53b6-dd11-b898-00188b804fcd,Aga Khan Foundation UK,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+bfd0db36-53b6-dd11-b898-00188b804fcd,Third Sector Foundation of Turkey,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+8ab3cb48-53b6-dd11-b898-00188b804fcd,Aga Khan Foundation UK,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+1228e530-53b6-dd11-b898-00188b804fcd,Wellcome Trust,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+c4739860-041c-e611-b339-00155d33171d,Barilla Center for Food & Nutrition Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+51dbd43c-53b6-dd11-b898-00188b804fcd,Evens Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2b28e530-53b6-dd11-b898-00188b804fcd,Stefan Batory Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2528e530-53b6-dd11-b898-00188b804fcd,Barrow Cadbury Trust,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+68dbd43c-53b6-dd11-b898-00188b804fcd,Taawon,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+1228e530-53b6-dd11-b898-00188b804fcd,Wellcome Trust,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+a2dbd43c-53b6-dd11-b898-00188b804fcd,Oak Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+0a28e530-53b6-dd11-b898-00188b804fcd,Ford Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+81bec44e-53b6-dd11-b898-00188b804fcd,Big Lottery Fund,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+2528e530-53b6-dd11-b898-00188b804fcd,Barrow Cadbury Trust,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+18b4cb48-53b6-dd11-b898-00188b804fcd,Mama Cash Foundation,b8631cc7-adea-e011-b61f-001ec9e8f280,other foundations/funders/grantmakers
+6828e530-53b6-dd11-b898-00188b804fcd,King Baudouin Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+1ddbd43c-53b6-dd11-b898-00188b804fcd,Carnegie UK Trust,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+c5d0db36-53b6-dd11-b898-00188b804fcd,Gerda Henkel Stiftung,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+84dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione CRT,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+4696bb5a-53b6-dd11-b898-00188b804fcd,Champalimaud Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+f7b3cb48-53b6-dd11-b898-00188b804fcd,Realdania,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+2d28e530-53b6-dd11-b898-00188b804fcd,Finnish Cultural Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+b0d0db36-53b6-dd11-b898-00188b804fcd,Compagnia di San Paolo,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+b0d0db36-53b6-dd11-b898-00188b804fcd,Compagnia di San Paolo,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+8cdbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio della Spezia,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+8cdbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio della Spezia,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+4896bb5a-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Lucca,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+86dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Biella,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+6428e530-53b6-dd11-b898-00188b804fcd,Joseph Rowntree Charitable Trust,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+6828e530-53b6-dd11-b898-00188b804fcd,King Baudouin Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+9f47d042-53b6-dd11-b898-00188b804fcd,Fritt Ord Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+6824e278-948d-de11-95cc-00188b804fcd,Siemens Stiftung,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+96dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Parma,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+86dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Biella,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+b0d0db36-53b6-dd11-b898-00188b804fcd,Compagnia di San Paolo,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+0a28e530-53b6-dd11-b898-00188b804fcd,Ford Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+de902966-3e3a-de11-96fa-00188b804fcd,Fondazione CON IL SUD,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+fab3cb48-53b6-dd11-b898-00188b804fcd,Cultiva - Kristiansand Kommunes Energiverksstiftelse,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+5328e530-53b6-dd11-b898-00188b804fcd,Bertelsmann Stiftung,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+84dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione CRT,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+5228e530-53b6-dd11-b898-00188b804fcd,Sabanci Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+5228e530-53b6-dd11-b898-00188b804fcd,Sabanci Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+18b4cb48-53b6-dd11-b898-00188b804fcd,Mama Cash Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+3728e530-53b6-dd11-b898-00188b804fcd,Körber-Stiftung,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+3728e530-53b6-dd11-b898-00188b804fcd,Körber-Stiftung,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+c7bdc44e-53b6-dd11-b898-00188b804fcd,Bill & Melinda Gates Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+c7bdc44e-53b6-dd11-b898-00188b804fcd,Bill & Melinda Gates Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+b2b3cb48-53b6-dd11-b898-00188b804fcd,National Foundation for Civil Society Development - Croatia,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+aedbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cariplo,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+5328e530-53b6-dd11-b898-00188b804fcd,Bertelsmann Stiftung,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+2d28e530-53b6-dd11-b898-00188b804fcd,Finnish Cultural Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+e4d0db36-53b6-dd11-b898-00188b804fcd,"VELUX Foundations, The",3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+e4d0db36-53b6-dd11-b898-00188b804fcd,"VELUX Foundations, The",3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+e4d0db36-53b6-dd11-b898-00188b804fcd,"VELUX Foundations, The",3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+e4d0db36-53b6-dd11-b898-00188b804fcd,"VELUX Foundations, The",3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+c947d042-53b6-dd11-b898-00188b804fcd,Mozaik Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+c947d042-53b6-dd11-b898-00188b804fcd,Mozaik Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+0328e530-53b6-dd11-b898-00188b804fcd,Riksbankens Jubileumsfond,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+de902966-3e3a-de11-96fa-00188b804fcd,Fondazione CON IL SUD,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+2828e530-53b6-dd11-b898-00188b804fcd,"German Marshall Fund of the United States, The",3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+ff27e530-53b6-dd11-b898-00188b804fcd,Robert Bosch Stiftung GmbH,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+9f47d042-53b6-dd11-b898-00188b804fcd,Fritt Ord Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+ff27e530-53b6-dd11-b898-00188b804fcd,Robert Bosch Stiftung GmbH,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+4628e530-53b6-dd11-b898-00188b804fcd,"Rockefeller Foundation, The",3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+1028e530-53b6-dd11-b898-00188b804fcd,"""la Caixa"" Banking Foundation",3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+89dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Cuneo,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+c7bdc44e-53b6-dd11-b898-00188b804fcd,Bill & Melinda Gates Foundation,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+8cdbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio della Spezia,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+1228e530-53b6-dd11-b898-00188b804fcd,Wellcome Trust,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+1ddbd43c-53b6-dd11-b898-00188b804fcd,Carnegie UK Trust,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+4628e530-53b6-dd11-b898-00188b804fcd,"Rockefeller Foundation, The",3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+84dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione CRT,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+46e833d1-98a6-e211-bc1c-00155d001608,Open Society Foundations,3b04cdce-adea-e011-b61f-001ec9e8f280,public authorities
+2528e530-53b6-dd11-b898-00188b804fcd,Barrow Cadbury Trust,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+fd27e530-53b6-dd11-b898-00188b804fcd,VolkswagenStiftung,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+c5d0db36-53b6-dd11-b898-00188b804fcd,Gerda Henkel Stiftung,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+84dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione CRT,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+47bec44e-53b6-dd11-b898-00188b804fcd,Fondation Mérieux,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+6824e278-948d-de11-95cc-00188b804fcd,Siemens Stiftung,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+1228e530-53b6-dd11-b898-00188b804fcd,Wellcome Trust,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+1228e530-53b6-dd11-b898-00188b804fcd,Wellcome Trust,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+6828e530-53b6-dd11-b898-00188b804fcd,King Baudouin Foundation,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+86dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Biella,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+51dbd43c-53b6-dd11-b898-00188b804fcd,Evens Foundation,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+b0d0db36-53b6-dd11-b898-00188b804fcd,Compagnia di San Paolo,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+1228e530-53b6-dd11-b898-00188b804fcd,Wellcome Trust,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+d4dbd43c-53b6-dd11-b898-00188b804fcd,Fundación Barrié,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+84dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione CRT,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+5228e530-53b6-dd11-b898-00188b804fcd,Sabanci Foundation,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+18b4cb48-53b6-dd11-b898-00188b804fcd,Mama Cash Foundation,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+5328e530-53b6-dd11-b898-00188b804fcd,Bertelsmann Stiftung,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+5328e530-53b6-dd11-b898-00188b804fcd,Bertelsmann Stiftung,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+2528e530-53b6-dd11-b898-00188b804fcd,Barrow Cadbury Trust,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+aedbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cariplo,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+fd27e530-53b6-dd11-b898-00188b804fcd,VolkswagenStiftung,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+2c28e530-53b6-dd11-b898-00188b804fcd,Fundação Calouste Gulbenkian,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+e4d0db36-53b6-dd11-b898-00188b804fcd,"VELUX Foundations, The",906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+e4d0db36-53b6-dd11-b898-00188b804fcd,"VELUX Foundations, The",906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+e4d0db36-53b6-dd11-b898-00188b804fcd,"VELUX Foundations, The",906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+e4d0db36-53b6-dd11-b898-00188b804fcd,"VELUX Foundations, The",906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+04d1db36-53b6-dd11-b898-00188b804fcd,Fondazione di Venezia,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+04d1db36-53b6-dd11-b898-00188b804fcd,Fondazione di Venezia,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+8528e530-53b6-dd11-b898-00188b804fcd,Fundación ONCE,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+1028e530-53b6-dd11-b898-00188b804fcd,"""la Caixa"" Banking Foundation",906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+0328e530-53b6-dd11-b898-00188b804fcd,Riksbankens Jubileumsfond,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+0328e530-53b6-dd11-b898-00188b804fcd,Riksbankens Jubileumsfond,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+0328e530-53b6-dd11-b898-00188b804fcd,Riksbankens Jubileumsfond,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+aedbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cariplo,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+f5c8bd54-53b6-dd11-b898-00188b804fcd,ERSTE Stiftung,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+6edbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Monte dei Paschi di Siena,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+1228e530-53b6-dd11-b898-00188b804fcd,Wellcome Trust,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+1028e530-53b6-dd11-b898-00188b804fcd,"""la Caixa"" Banking Foundation",906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+1028e530-53b6-dd11-b898-00188b804fcd,"""la Caixa"" Banking Foundation",906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+1028e530-53b6-dd11-b898-00188b804fcd,"""la Caixa"" Banking Foundation",906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+1028e530-53b6-dd11-b898-00188b804fcd,"""la Caixa"" Banking Foundation",906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+fab3cb48-53b6-dd11-b898-00188b804fcd,Cultiva - Kristiansand Kommunes Energiverksstiftelse,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+f227e530-53b6-dd11-b898-00188b804fcd,European Cultural Foundation,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+ff27e530-53b6-dd11-b898-00188b804fcd,Robert Bosch Stiftung GmbH,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+c7bdc44e-53b6-dd11-b898-00188b804fcd,Bill & Melinda Gates Foundation,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+f927e530-53b6-dd11-b898-00188b804fcd,Bernard van Leer Foundation,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+bfd0db36-53b6-dd11-b898-00188b804fcd,Third Sector Foundation of Turkey,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+1ddbd43c-53b6-dd11-b898-00188b804fcd,Carnegie UK Trust,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+51dbd43c-53b6-dd11-b898-00188b804fcd,Evens Foundation,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+81bec44e-53b6-dd11-b898-00188b804fcd,Big Lottery Fund,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+4528e530-53b6-dd11-b898-00188b804fcd,Rockefeller Brothers Fund,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+92dbd43c-53b6-dd11-b898-00188b804fcd,Fondazione Cassa di Risparmio di Padova e Rovigo,906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+0028e530-53b6-dd11-b898-00188b804fcd,"Carlsberg Foundation, The",906900e6-adea-e011-b61f-001ec9e8f280,university/research centres
+

@@ -1,0 +1,687 @@
+{   
+    "categories": [
+        {
+            "id": 1,
+            "name": "Public Good: Areas of Expertise",
+            "color": "#30337d"
+        },
+        {
+            "id": 2,
+            "name": "Resources",
+            "color": "#672b36"
+        },
+        {
+            "id": 3,
+            "name": "Use of Assets",
+            "color": "#b53a2e"
+        },
+        {
+            "id": 4,
+            "name": "Self-governance",
+            "color": "#d6ac3b"
+        },
+        {
+            "id": 5,
+            "name": "Practices & behaviours",
+            "color": "#577235"
+        },
+        {
+            "id": 6,
+            "name": "Relevance",
+            "color": "#3ba8d4"
+        },
+        {
+            "id": 7,
+            "name": "Your concerns this year",
+            "color": "#71CDDD"
+        }
+    ],
+    "subcategories": [
+        {
+            "id": 1,
+            "category_id": 1,
+            "name": "Public good areas/repertoire"
+        },
+        {
+            "id": 2,
+            "category_id": 2,
+            "name": "Type of resources"
+        },
+        {
+            "id": 3,
+            "category_id": 2,
+            "name": "Size of assets"
+        },
+        {
+            "id": 4,
+            "category_id": 3,
+            "name": "Financial assets & tools"
+        },
+        {
+            "id": 5,
+            "category_id": 3,
+            "name": "Staffing"
+        },
+        {
+            "id": 6,
+            "category_id": 3,
+            "name": "Other non-financial assets & tools"
+        },
+        {
+            "id": 7,
+            "category_id": 3,
+            "name": "Scope"
+        },
+        {
+            "id": 8,
+            "category_id": 3,
+            "name": "Approaches"
+        },
+        {
+            "id": 9,
+            "category_id": 4,
+            "name": "Governance arrangements"
+        },
+        {
+            "id": 10,
+            "category_id": 4,
+            "name": "Time horizon"
+        },
+        {
+            "id": 11,
+            "category_id": 4,
+            "name": "Multiple forms"
+        },
+        {
+            "id": 12,
+            "category_id": 5,
+            "name": "Type of Partnerships"
+        },
+        {
+            "id": 13,
+            "category_id": 5,
+            "name": "Practices"
+        },
+        {
+            "id": 14,
+            "category_id": 5,
+            "name": "Behaviours"
+        },
+        {
+            "id": 15,
+            "category_id": 6,
+            "name": "Roles"
+        },
+        {
+            "id": 16,
+            "category_id": 7,
+            "name": "Functions & Roles"
+        }
+    ],
+    "questions": [
+        {
+            "id": 1,
+            "question": "What is the main focus of your work?",
+            "type": "multiple_choice",
+            "subcategory_id": 1,
+            "options": [
+                {
+                    "value": "32c14f99-f4ba-48b7-a768-c5a123ecf72c",
+                    "text": "Arts & Culture"
+                },
+                {
+                    "value": "ab717d1d-0fac-4524-907c-1dff8cafe847",
+                    "text": "Civil society"
+                },
+                {
+                    "value": "34de4bc6-9fac-4bdc-aa5d-3e08173d907a",
+                    "text": "Education & training"
+                },
+                {
+                    "value": "2c4fbd38-3ec6-4290-b46d-df8a0af15ee4",
+                    "text": "Health"
+                },
+                {
+                    "value": "ed177e85-50b3-48e2-b7f6-47f20aa194ec",
+                    "text": "Inequality"
+                },
+                {
+                    "value": "44e2fe94-7489-401f-a8bf-f528d705c81b",
+                    "text": "Life stages (children, youth, elderly)"
+                },
+                {
+                    "value": "c76f9e55-292e-4244-a22f-1eafc87b1930",
+                    "text": "Sciences & Technology"
+                },
+                {
+                    "value": "6e10d4bf-e338-41c7-8e66-4e5f89fe07b4",
+                    "text": "Sustainability"
+                },
+                {
+                    "value": "137f0831-ce7a-480d-a4e0-6c11c23d574f",
+                    "text": "Other (Please specify)"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Does your organisation have an endowment?",
+            "type": "true_false",
+            "subcategory_id": 2
+        },
+        {
+            "id": 3,
+            "question": "What is the origin of your organisation’s financial assets",
+            "type": "multiple_choice",
+            "subcategory_id": 2,
+            "options": [
+                {
+                    "value": "47382924-52e0-4690-b7ee-3931c001db4d",
+                    "text": "Company"
+                },
+                {
+                    "value": "141bdf8a-5c8e-4218-8f0b-fccb62e32bde",
+                    "text": "Family"
+                },
+                {
+                    "value": "df7dce16-1538-4371-8262-251268fdb39f",
+                    "text": "Individuals"
+                },
+                {
+                    "value": "707fc67a-3a67-494c-af5a-67d1c5deda7d",
+                    "text": "Lottery"
+                },
+                {
+                    "value": "d312eb58-8edc-43ea-b294-f4506452a57d",
+                    "text": "Multiple donors"
+                },
+                {
+                    "value": "18f2fc6e-f813-4f44-a785-726bfc6e18c3",
+                    "text": "Other foundations"
+                },
+                {
+                    "value": "8024c385-8f61-44a8-a82d-c0d914d5765b",
+                    "text": "Public sources"
+                },
+                {
+                    "value": "b9efe589-a5f7-4dcf-8894-2162f7065c4e",
+                    "text": "Result of privatisation"
+                },
+                {
+                    "value": "23a66992-6860-4e96-9045-efeeb6907693",
+                    "text": "Self generated"
+                },
+                {
+                    "value": "0b2b4524-ea78-462f-b759-bf7dcbfb2093",
+                    "text": "Other"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Select the type of assets your organisation has",
+            "type": "multiple_choice",
+            "subcategory_id": 2,
+            "options": [
+                {
+                    "value": "2a00fed9-718f-4edf-9f15-90aa77256d7e",
+                    "text": "Bonds"
+                },
+                {
+                    "value": "2d625217-21b4-47fc-86ce-23120629d401",
+                    "text": "Buildings"
+                },
+                {
+                    "value": "34ac70de-0370-461f-bf13-901cd33d90b4",
+                    "text": "Cash"
+                },
+                {
+                    "value": "239a2a0c-992e-4dc6-b881-22c4fb5c2913",
+                    "text": "Donor Stock"
+                },
+                {
+                    "value": "280e42b8-7eed-4428-babc-ded5e5893a0b",
+                    "text": "Equities"
+                },
+                {
+                    "value": "b9d8923a-f15b-4175-98ef-51f19bb11360",
+                    "text": "Land"
+                },
+                {
+                    "value": "24e105e0-ceba-4ae6-ba7e-07926d5d71f7",
+                    "text": "Works of Art"
+                },
+                {
+                    "value": "f17bef47-bb20-4bde-aa86-e286f954b1f7",
+                    "text": "Others"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question": "What's the value of your organisation's total assets?",
+            "type": "amount_currency",
+            "subcategory_id": 3
+        },
+        {
+            "id": 6,
+            "question": "What was the total expenditure of your organisation in 2017?",
+            "type": "amount_currency",
+            "subcategory_id": 3
+        },
+        {
+            "id": 7,
+            "question": "In which geographical areas does your organization work in?",
+            "type": "multiple_choice",
+            "subcategory_id": 7,
+            "options": [
+                {
+                    "value": "a1119f0a-b9f0-4d28-bade-8880fd80248d",
+                    "text": "Neighbourhood"
+                },
+                {
+                    "value": "99aae45c-43c9-4116-947b-7685faa92fe6",
+                    "text": "Town or city"
+                },
+                {
+                    "value": "8f8265aa-a182-4b8a-8b8d-e527bf32009a",
+                    "text": "Region \/ part of a country"
+                },
+                {
+                    "value": "969eacbe-46fd-4c8a-8771-3aaee9ac9a74",
+                    "text": "Country-wide"
+                },
+                {
+                    "value": "6e72f1e7-4d4a-4936-8956-bd65980cbbf3",
+                    "text": "More than one country"
+                },
+                {
+                    "value": "62a8324d-6955-4b04-a6db-55624075c776",
+                    "text": "Europe wide"
+                },
+                {
+                    "value": "6439427d-30c5-4105-b891-629ce6fc000f",
+                    "text": "Beyond Europe"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "question": "Do you have a fixed mandate?",
+            "type": "true_false",
+            "subcategory_id": 7
+        },
+        {
+            "id": 9,
+            "question": "In addition to your financial assets, does your toolbox consist of any of the following?",
+            "type": "multiple_choice",
+            "subcategory_id": 4,
+            "options": [
+                {
+                    "value": "62c18bd9-fd2b-4aa0-bb6e-7a4056ccf543",
+                    "text": "Intellectual capital"
+                },
+                {
+                    "value": "5d8b8894-8734-4f37-9d94-8eae38a597bc",
+                    "text": "Political capital"
+                },
+                {
+                    "value": "a246363e-0191-4677-9c9f-008f7d8c8daa",
+                    "text": "Reputation \/ Brand"
+                },
+                {
+                    "value": "7fe5f2a1-5c3c-4d11-892b-a08c6441496b",
+                    "text": "Social capital \/ networks"
+                },
+                {
+                    "value": "48836f09-b580-43e1-a3d3-4f429246d10c",
+                    "text": "Other"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "question": "Do you operate your own programmes (including research or training)?",
+            "type": "true_false",
+            "subcategory_id": 8
+        },
+        {
+            "id": 11,
+            "question": "On average, how long do you support a programme (in years):",
+            "type": "amount",
+            "subcategory_id": 8
+        },
+
+        {
+            "id": 12,
+            "question": "Select the type(s) of financial support you provide",
+            "type": "multiple_choice",
+            "subcategory_id": 4,
+            "options": [
+                {
+                    "value": "df4a57ba-1da9-484b-ba7c-c75f5177d932",
+                    "text": "Core support \/ grants"
+                },
+                {
+                    "value": "48eea6ac-b517-4840-9fe5-40bba2572148",
+                    "text": "Fellowships"
+                },
+                {
+                    "value": "fccb62e7-cace-4620-957a-e9eca9fe40d4",
+                    "text": "Guarantees"
+                },
+                {
+                    "value": "960f1452-5f74-4f4d-b4b8-1a12c1fd71cc",
+                    "text": "Loans"
+                },
+                {
+                    "value": "63e67e03-e012-4659-adb6-ead7d28ba601",
+                    "text": "Long-term support \/ grants"
+                },
+                {
+                    "value": "d4e87ffd-ff7f-403e-80f3-218239f934ad",
+                    "text": "Prizes and awards"
+                },
+                {
+                    "value": "243e5136-0277-48d5-8373-92975718b162s",
+                    "text": "Short-term support \/ grants"
+                },
+                {
+                    "value": "3ab58d8d-0868-4442-ae4e-b2a972488abd",
+                    "text": "Other"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "question": "How many grants did you make in 2017 (if applicable)?",
+            "type": "amount",
+            "subcategory_id": 4
+        },
+        {
+            "id": 14,
+            "question": "In addition to financial support, do you provide any of the following?",
+            "type": "multiple_choice",
+            "subcategory_id": 6,
+            "options": [
+                {
+                    "value": "712d951e-a996-4bf8-97be-c982c1fbc5a4",
+                    "text": "Access to network"
+                },
+                {
+                    "value": "ef3d0ea4-d106-40b0-9db3-f1ed584125db",
+                    "text": "Communications and advocacy support"
+                },
+                {
+                    "value": "2a1f429c-adf4-4fc2-9883-8e3563edd32c",
+                    "text": "Free access to meeting facilities"
+                },
+                {
+                    "value": "54fc477e-78c4-4818-bfa4-7d42ba620dba",
+                    "text": "Skill support"
+                },
+                {
+                    "value": "fc84332b-0f0d-401e-96c7-1d03f20ba857",
+                    "text": "Strategic support"
+                },
+                {
+                    "value": "c97a5fa2-5fae-4000-9458-a5811961354d",
+                    "text": "Other"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "question": "How many employees does your organisation have (including part-time)?",
+            "type": "amount_range",
+            "subcategory_id": 5,
+            "options": [
+                {
+                    "value": "623bca0f-5a11-4705-8ab1-3612ec2d2ecc",
+                    "text": " None",
+                    "min": 0,
+                    "max": 0
+                },
+                {
+                    "value": "d7802bc0-0e94-4235-8583-170b2a300772",
+                    "text": " 1-2",
+                    "min": 1,
+                    "max": 2
+                },
+                {
+                    "value": "b5567270-2499-471e-a96c-39808991c1c4",
+                    "text": " 3-5",
+                    "min": 3,
+                    "max": 5
+                },
+                {
+                    "value": "702fe462-2cbb-47cd-8a8e-a4bd23af9b83",
+                    "text": " 6-10",
+                    "min": 6,
+                    "max": 10
+                },
+                {
+                    "value": "1924d49a-fbd3-40fc-9a8b-2fbc8b74e084",
+                    "text": " 11-20",
+                    "min": 11,
+                    "max": 20
+                },
+                {
+                    "value": "82081a9d-a325-4eb7-8372-2fd17260d84c",
+                    "text": " 21-40",
+                    "min": 21,
+                    "max": 40
+                },
+                {
+                    "value": "dd6a6e3f-2077-4b3a-b9a7-cc5cc3f4cab2",
+                    "text": " 41-75",
+                    "min": 41,
+                    "max": 75
+                },
+                {
+                    "value": "401f3718-8442-4d24-bd8d-5f3bf7127b93",
+                    "text": " 76-100",
+                    "min": 76,
+                    "max": 100
+                },
+                {
+                    "value": "f32d47b1-c3aa-40ef-8820-4f3a53b5a4cd",
+                    "text": " Over 100 (Please Specify)",
+                    "min": 101,
+                    "max": null
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "question": "Which one of the following forms best describes you?",
+            "type": "single_choice",
+            "subcategory_id": 11,
+            "options": [
+                {
+                    "value": "d31159b1-af54-4300-ba81-f7dd51d426c5",
+                    "text": "Independent Foundation"
+                },
+                {
+                    "value": "9ccb8d1b-6fa1-42af-aa80-b656f0d10690",
+                    "text": "Community Foundation"
+                },
+                {
+                    "value": "780ede0e-3c44-4a58-9572-dad542b32107",
+                    "text": "Corporate Funder "
+                },
+                {
+                    "value": "77d00675-b6fe-474b-945f-4d792513f765",
+                    "text": "Other (please specify)"
+                }
+            ]
+        },        {
+            "id": 17,
+            "question": "Does your organisation exist in perpetuity?",
+            "type": "true_false",
+            "subcategory_id": 10
+        },
+        {
+            "id": 18,
+            "question": "Who takes the main responsibility for decisions about your asset management?",
+            "type": "multiple_choice",
+            "subcategory_id": 9,
+            "options": [
+                {
+                    "value": "9e1247b8-3d32-46b6-af53-ed8525ddc3e8",
+                    "text": "Board of Directors"
+                },
+                {
+                    "value": "445e9dad-7a47-40cb-aedf-e0033386bc1d",
+                    "text": "Finance Committee"
+                },
+                {
+                    "value": "805a7034-1635-4da0-9499-0b631fa5e165",
+                    "text": "Financial adviser or external company"
+                },
+                {
+                    "value": "a677ecb7-2655-4bad-9fd7-b42757d700a0",
+                    "text": "Investment Committee"
+                },
+                {
+                    "value": "3bdf0c8e-ae2a-486d-a70c-d8ee8ba86dfe",
+                    "text": "Professional staff of the organisation"
+                },
+                {
+                    "value": "9fd5cf6c-44b3-4735-b5f4-e141f35548b0",
+                    "text": "Other"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "question": "How frequently does your Board meet?",
+            "type": "single_choice",
+            "subcategory_id": 9,
+            "options": [
+                {
+                    "value": "1ed2528b-e1f9-4d9c-85d5-1910dfa8fd94",
+                    "text": "1-2 \/ year"
+                },
+                {
+                    "value": "47321138-6a20-49e7-9e19-8bfafb98f716",
+                    "text": "3-4 \/ year"
+                },
+                {
+                    "value": "aaafde45-3a5a-4249-b97e-ad1b40579af3",
+                    "text": "5-6 \/ year"
+                },
+                {
+                    "value": "23fc7fea-1061-4236-a231-3ba647ebcef7",
+                    "text": "More than 6 times per year"
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "question": "With whom do you collaborate?",
+            "type": "multiple_choice",
+            "subcategory_id": 12,
+            "options": [
+                {
+                    "value": "5dfb2e75-c142-43f4-a7e0-2af657b286d5",
+                    "text": "Associations"
+                },
+                {
+                    "value": "0f8e47a0-3b6f-4eb9-95a9-82b082c5cd3d",
+                    "text": "Companies"
+                },
+                {
+                    "value": "c571da96-fbe3-4bcd-a67e-d47a121a7e33",
+                    "text": "Cultural institutions"
+                },
+                {
+                    "value": "ceee00d6-f745-4036-a89c-609e68e6f862",
+                    "text": "Media"
+                },
+                {
+                    "value": "ce68dbeb-2810-481b-9774-f079aeb8be11",
+                    "text": "Other foundations"
+                },
+                {
+                    "value": "c741643a-f5e9-44fa-9034-3c41855cd89d",
+                    "text": "Public authorities"
+                },
+                {
+                    "value": "f7d0219c-7fa5-45b1-aaff-5626966adb2e",
+                    "text": "Other (please specify)"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "question": "Do you involve your stakeholders/beneficiaries in the implementation and running of projects?",
+            "type": "true_false",
+            "subcategory_id": 13
+        },
+        {
+            "id": 22,
+            "question": "Do you currently assess your foundation’s impact?",
+            "type": "true_false",
+            "subcategory_id": 13
+        },
+        {
+            "id": 23,
+            "question": "Have you changed your programmes following evaluation?",
+            "type": "true_false",
+            "subcategory_id": 14
+        },
+        {
+            "id": 24,
+            "question": "What is your organisation's role in society (rank from 1-5)",
+            "type": "order",
+            "subcategory_id": 15,
+            "options": [
+                {
+                    "value": "0962d6aa-cac4-4985-b22b-32f0cb6ed5c3",
+                    "text": "We improve the lives of individuals"
+                },
+                {
+                    "value": "832df17e-3462-4eae-834a-2ffdfe5448a6",
+                    "text": "We improve the lives of selected groups"
+                },
+                {
+                    "value": "8303fed5-1ed8-4527-b05e-5113a367967a",
+                    "text": "We maintain people\u2019s values and assets"
+                },
+                {
+                    "value": "24c2fd6c-f9ae-4a8f-a3d3-649a7240b5a9",
+                    "text": "We are most interested in improving society within existing structures"
+                },
+                {
+                    "value": "76db6513-1917-48a2-a161-faad4337cbbf",
+                    "text": "We aim to change the structures on which society is organised"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "question": "What is on your radar in 2018?",
+            "type": "multiple_choice",
+            "subcategory_id": 16,
+            "options": [
+                {
+                    "value": "c9888e8b-875d-4ba8-a3fc-3621d285251b",    
+                    "text": "Demonstrating the value (and legitimacy) of your work"
+                },
+                {
+                    "value": "e39cfaa5-d9ff-4cba-9cc8-0ca8f9ab9d06",
+                    "text": "Ethical alignment between mission and investment portfolio"
+                },
+                {
+                    "value": "95db8c3e-dd51-47d6-b85c-b32b818bd337",
+                    "text": "Preparing for the General Data Protection Regulation (GDPR)"
+                },
+                {
+                    "value": "8525fe82-4788-47fd-9c58-f208f8415d82",
+                    "text": "Other (please specify) "   
+                }
+            ]
+        }
+    ]
+}
